@@ -60,5 +60,12 @@ HTTP는 암호화되지 않은 데이터를 전송한다. 즉, 브라우저에�
 
 
 
+***
+
+### Reference
+
+* \[MDN Web Docs]\([https://developer.mozilla.org/ko/docs/Web/HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP))
+* \[AWS Official Docs : HTTP와 HTTPS의 차이점은 무엇인가요?]\([https://aws.amazon.com/ko/compare/the-difference-between-https-and-http/](https://aws.amazon.com/ko/compare/the-difference-between-https-and-http/))
+
 
 

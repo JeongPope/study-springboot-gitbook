@@ -5,7 +5,6 @@
 ## WEEK 2
 
 * [#3 REST API](week-2/3-rest-api.md)
-* [#4 Spring Annotations](week-2/4-spring-annotations.md)
 
 ## Week 1
 

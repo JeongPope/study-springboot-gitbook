@@ -2,6 +2,10 @@
 
 * [study-springboot-gitbook](README.md)
 
+## 주간회고
+
+* [Week 1 & 2](undefined/week-1-and-2.md)
+
 ## WEEK 2
 
 * [#3 REST API](week-2/3-rest-api.md)

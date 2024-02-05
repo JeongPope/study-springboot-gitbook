@@ -9,7 +9,7 @@ HTTP란 "HyperText Transfer Protocol"의 약자로, HTML 문서와 같은 리소
 * HTTP는 클라이언트가 요청(Request)를 하기 위해 연결을 연 다음, 응답(Response)을 받을때 까지 대기하는 전통적인 "**클라이언트 - 서버 모델**"을 따른다.
 * HTTP는 **Stateless**이기때문에, 서버가 서로 다른 요청 간 **어떠한 상태도 유지하지 않는다.**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>HTTP는 OSI 7 Layer 중 "애플리케이션 계층에 속한다. (출처 : MDN)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>HTTP는 OSI 7 Layer 중 "애플리케이션 계층에 속한다. (출처 : MDN)</p></figcaption></figure>
 
 
 

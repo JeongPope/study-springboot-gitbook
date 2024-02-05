@@ -1,4 +1,4 @@
-# #7 CORS
+# #6 CORS
 
 **CORS**
 

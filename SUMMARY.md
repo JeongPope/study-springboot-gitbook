@@ -6,15 +6,27 @@
 
 * [Week 1 & 2](undefined/week-1-and-2.md)
 
+## WEEK 5
+
+* [#1 Dependency Injection](week-5/1-dependency-injection.md)
+* [#2 Unit Test](week-5/2-unit-test.md)
+* [#3 Spring Test](week-5/3-spring-test.md)
+
+## WEEK 4
+
+* [#1 Layered Architecture](week-4/1-layered-architecture.md)
+* [#2 Data Access](week-4/2-data-access.md)
+* [#3 Domain Model](week-4/3-domain-model.md)
+
 ## WEEK 3
 
-* [#4 DTO](week-3/4-dto.md)
-* [#5 Serialization](week-3/5-serialization.md)
-* [#6 CORS](week-3/6-cors.md)
+* [#1 DTO](week-3/1-dto.md)
+* [#2 Serialization](week-3/2-serialization.md)
+* [#3 CORS](week-3/3-cors.md)
 
 ## WEEK 2
 
-* [#3 REST API](week-2/3-rest-api.md)
+* [#1 REST API](week-2/1-rest-api.md)
 
 ## Week 1
 

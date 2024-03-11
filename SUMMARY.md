@@ -2,9 +2,15 @@
 
 * [study-springboot-gitbook](README.md)
 
-## 주간회고
+## WEEK 7
 
-* [Week 1 & 2](undefined/week-1-and-2.md)
+* [Page 2](week-7/page-2.md)
+
+## WEEK 6
+
+* [#1 Database](week-6/1-database.md)
+* [#2 ERM](week-6/2-erm.md)
+* [#3 JDBC](week-6/3-jdbc.md)
 
 ## WEEK 5
 

@@ -4,7 +4,7 @@
 
 ## WEEK 7
 
-* [Page 2](week-7/page-2.md)
+* [#1 JPA](week-7/1-jpa.md)
 
 ## WEEK 6
 

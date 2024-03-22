@@ -39,7 +39,7 @@ DB 데이터에 접근하기 위한 객체로, Database에 접근하기 위한 �
 
 객체를 그 자체로 저장하거나 네트워크로 전송할수 없기 때문에, 데이터의 구조나 오브젝트 상태를 저장/전송가능하며 재구성할 수 있는 포맷으로 변환하는 과정을 말한다.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * [https://techblog.woowahan.com/2550/](https://techblog.woowahan.com/2550/)
 

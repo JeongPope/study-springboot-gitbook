@@ -1,4 +1,4 @@
-# #3 REST API
+# WEEK 2
 
 **API (Application Programming Interface)**
 

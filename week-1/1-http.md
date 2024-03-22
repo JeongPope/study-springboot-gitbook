@@ -9,7 +9,7 @@ HTTP란 "HyperText Transfer Protocol"의 약자로, HTML 문서와 같은 리소
 * HTTP는 클라이언트가 요청(Request)를 하기 위해 연결을 연 다음, 응답(Response)을 받을때 까지 대기하는 전통적인 "**클라이언트 - 서버 모델**"을 따른다.
 * HTTP는 **Stateless**이기때문에, 서버가 서로 다른 요청 간 **어떠한 상태도 유지하지 않는다.**
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>HTTP는 OSI 7 Layer 중 "애플리케이션 계층에 속한다. (출처 : MDN)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>HTTP는 OSI 7 Layer 중 "애플리케이션 계층에 속한다. (출처 : MDN)</p></figcaption></figure>
 
 
 
@@ -17,7 +17,7 @@ HTTP란 "HyperText Transfer Protocol"의 약자로, HTML 문서와 같은 리소
 
 클라이언트의 각각 개별적인 요청은 서버로 전송되고, 서버는 요청을 처리하고 응답을 제공한다. 이러한 네트워크 아키텍처를 "클라이언트 - 서버" 모델 또는 아키텍처라고 한다.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>요청과 응답 사이에는 클라이언트와 서버 외에도 Proxy, Cache 등이 있다.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>요청과 응답 사이에는 클라이언트와 서버 외에도 Proxy, Cache 등이 있다.</p></figcaption></figure>
 
 
 
@@ -56,7 +56,7 @@ HTTP란 "HyperText Transfer Protocol"의 약자로, HTML 문서와 같은 리소
 
 HTTP는 암호화되지 않은 데이터를 전송한다. 즉, 브라우저에서 전송된 정보를 제3자가 가로채고 읽을 수 있는데, 이런 네트워크 통신 상 보안 계층을 추가하기위해 HTTP Request / Response에 SSL/TLS 인증서를 결합한 확장된 프로토콜이다.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://aws.amazon.com/ko/compare/the-difference-between-https-and-http/">https://aws.amazon.com/ko/compare/the-difference-between-https-and-http/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://aws.amazon.com/ko/compare/the-difference-between-https-and-http/">https://aws.amazon.com/ko/compare/the-difference-between-https-and-http/</a></p></figcaption></figure>
 
 **try-with-resources**
 

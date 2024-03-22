@@ -32,7 +32,7 @@
 
 **관계형 데이터 모델에서의 용어**
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 나중에 참고할 잘 정리된 문서:
 
